@@ -365,7 +365,7 @@
 		<dependency>
 			<groupId>com.amazonaws</groupId>
 			<artifactId>aws-java-sdk-cognitoidp</artifactId>
-			<version>1.12.353</version>
+			<version>1.12.701</version>
 		</dependency>
 		<dependency>
 			<groupId>com.atlassian.bitbucket.server</groupId>
