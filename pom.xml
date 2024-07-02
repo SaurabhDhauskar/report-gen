@@ -295,10 +295,10 @@
 			<artifactId>xmltooling</artifactId>
 			<version>1.4.6</version>
 			<exclusions>
-				<exclusion>
+				<!--<exclusion>
 					<groupId>org.bouncycastle</groupId>
 					<artifactId>bcprov-jdk15on</artifactId>
-				</exclusion>
+				</exclusion>-->
 				<exclusion>
 					<groupId>org.apache.santuario</groupId>
 					<artifactId>xmlsec</artifactId>
