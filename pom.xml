@@ -22,7 +22,7 @@
 		<bamboo.data.version>9.3.3</bamboo.data.version>
 		<amps.version>8.1.2</amps.version>
 		<plugin.testrunner.version>2.0.2</plugin.testrunner.version>
-		<spring.version>5.3.20</spring.version>
+		<spring.version>5.3.27</spring.version>
 		<osgi.javaconfig.version>0.2.0</osgi.javaconfig.version>
 		<atlassian.plugin.key>${project.groupId}.${project.artifactId}</atlassian.plugin.key>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
