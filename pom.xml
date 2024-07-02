@@ -295,10 +295,10 @@
 			<artifactId>xmltooling</artifactId>
 			<version>1.4.6</version>
 			<exclusions>
-				<!--<exclusion>
+				<exclusion>
 					<groupId>org.bouncycastle</groupId>
 					<artifactId>bcprov-jdk15on</artifactId>
-				</exclusion>-->
+				</exclusion>
 				<exclusion>
 					<groupId>org.apache.santuario</groupId>
 					<artifactId>xmlsec</artifactId>
@@ -378,12 +378,12 @@
 		</dependency>
 
 		<!-- https://mvnrepository.com/artifact/org.bouncycastle/bcprov-jdk15on -->
-		<dependency>
+		<!--<dependency>
 			<groupId>org.bouncycastle</groupId>
 			<artifactId>bcprov-jdk15on</artifactId>
 			<version>1.70</version>
 			<scope>provided</scope>
-		</dependency>
+		</dependency>-->
 		<dependency>
 			<groupId>com.atlassian.plugins</groupId>
 			<artifactId>atlassian-plugins-api</artifactId>
