@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.miniorange.usersync</groupId>
     <artifactId>miniorange-usersync-confluence</artifactId>
-    <version>6.2.6</version>
+    <version>3.4.6</version>
     <organization>
         <name>miniOrange</name>
         <url>http://www.miniorange.com/</url>
